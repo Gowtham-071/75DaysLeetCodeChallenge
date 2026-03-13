@@ -31,3 +31,19 @@ https://leetcode.com/u/saigowtham712/
 
 Consistency is one of the most important factors in mastering problem solving.  
 This repository represents a commitment to continuous learning, disciplined practice, and gradual improvement over time.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
