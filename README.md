@@ -192,6 +192,7 @@ This repository represents a commitment to continuous learning, disciplined prac
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -203,6 +204,7 @@ This repository represents a commitment to continuous learning, disciplined prac
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
@@ -221,6 +223,7 @@ This repository represents a commitment to continuous learning, disciplined prac
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -240,5 +243,6 @@ This repository represents a commitment to continuous learning, disciplined prac
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
