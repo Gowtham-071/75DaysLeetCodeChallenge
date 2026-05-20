@@ -201,6 +201,7 @@ This repository represents a commitment to continuous learning, disciplined prac
 | [0020-valid-parentheses](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -262,6 +263,7 @@ This repository represents a commitment to continuous learning, disciplined prac
 | [0102-binary-tree-level-order-traversal](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -276,6 +278,7 @@ This repository represents a commitment to continuous learning, disciplined prac
 | [0100-same-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
@@ -301,6 +304,7 @@ This repository represents a commitment to continuous learning, disciplined prac
 | [0102-binary-tree-level-order-traversal](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
