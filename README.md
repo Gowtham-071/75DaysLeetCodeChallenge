@@ -275,6 +275,7 @@ This repository represents a commitment to continuous learning, disciplined prac
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -413,6 +414,7 @@ This repository represents a commitment to continuous learning, disciplined prac
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Gowtham-071/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
